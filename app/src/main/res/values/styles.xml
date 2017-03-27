@@ -1,0 +1,59 @@
+<resources>
+
+    <!-- Base application theme. parent="android:Theme.Holo"-->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="stationTitle">
+        <item name="android:textSize">50dp</item>
+        <item name="android:text">Station Title</item>
+    </style>
+
+    <style name="solution">
+        <item name="android:textSize">40dp</item>
+        <item name="android:text">Solution</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="busNumber">
+        <item name="android:textSize">40dp</item>
+        <item name="android:text">Num</item>
+        <item name="android:textColor">#ff0</item>
+    </style>
+
+    <style name="minLeft">
+        <item name="android:textSize">30dp</item>
+        <item name="android:text">Left</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="timeWhenGone">
+        <item name="android:textSize">40dp</item>
+        <item name="android:text">Time</item>
+        <item name="android:textColor">#00f</item>
+    </style>
+
+    <style name="smallBusNumber">
+        <item name="android:textSize">25dp</item>
+        <item name="android:text">Num</item>
+        <item name="android:textColor">#ff0</item>
+    </style>
+
+    <style name="smallMinLeft">
+        <item name="android:textSize">20dp</item>
+        <item name="android:text">Left</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="smallTimeWhenGone">
+        <item name="android:textSize">20dp</item>
+        <item name="android:text">Time</item>
+        <item name="android:textColor">#00f</item>
+    </style>
+
+</resources>
